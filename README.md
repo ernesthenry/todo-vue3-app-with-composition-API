@@ -2,7 +2,7 @@
 
 > A simple ToDo application using Vue 3 Composition API.
 
-<!-- ### Demo: [Navigate here](https://ernesthenry.github.io/todo-vue3-app-with-composition-API/) -->
+### Demo: [Navigate here](https://ernesthenry.github.io/todo-vue3-app-with-composition-API/)
 
 ## Project setup
 
